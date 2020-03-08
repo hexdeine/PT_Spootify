@@ -1,0 +1,23 @@
+C:\Users\2018sha01215\source\repos\PlaylistPT\PlaylistPT\obj\Debug\PlaylistPT.csprojAssemblyReference.cache
+C:\Users\2018sha01215\source\repos\PlaylistPT\PlaylistPT\obj\Debug\PlaylistPT.Form1.resources
+C:\Users\2018sha01215\source\repos\PlaylistPT\PlaylistPT\obj\Debug\PlaylistPT.Properties.Resources.resources
+C:\Users\2018sha01215\source\repos\PlaylistPT\PlaylistPT\obj\Debug\PlaylistPT.csproj.GenerateResource.cache
+C:\Users\2018sha01215\source\repos\PlaylistPT\PlaylistPT\obj\Debug\PlaylistPT.csproj.CoreCompileInputs.cache
+C:\Users\2018sha01215\source\repos\PlaylistPT\PlaylistPT\bin\Debug\PlaylistPT.exe.config
+C:\Users\2018sha01215\source\repos\PlaylistPT\PlaylistPT\bin\Debug\PlaylistPT.exe
+C:\Users\2018sha01215\source\repos\PlaylistPT\PlaylistPT\bin\Debug\PlaylistPT.pdb
+C:\Users\2018sha01215\source\repos\PlaylistPT\PlaylistPT\obj\Debug\PlaylistPT.exe
+C:\Users\2018sha01215\source\repos\PlaylistPT\PlaylistPT\obj\Debug\PlaylistPT.pdb
+C:\Users\2018sha01215\source\repos\PlaylistPT\PlaylistPT\obj\Debug\PlaylistPT.AddSong.resources
+C:\Users\click\Documents\C#\[WIP] PT1 Sabin\PlaylistPT\PlaylistPT\obj\Debug\PlaylistPT.csprojAssemblyReference.cache
+C:\Users\click\Documents\C#\[WIP] PT1 Sabin\PlaylistPT\PlaylistPT\obj\Debug\PlaylistPT.AddSong.resources
+C:\Users\click\Documents\C#\[WIP] PT1 Sabin\PlaylistPT\PlaylistPT\obj\Debug\PlaylistPT.Form1.resources
+C:\Users\click\Documents\C#\[WIP] PT1 Sabin\PlaylistPT\PlaylistPT\obj\Debug\PlaylistPT.Properties.Resources.resources
+C:\Users\click\Documents\C#\[WIP] PT1 Sabin\PlaylistPT\PlaylistPT\obj\Debug\PlaylistPT.csproj.GenerateResource.cache
+C:\Users\click\Documents\C#\[WIP] PT1 Sabin\PlaylistPT\PlaylistPT\obj\Debug\PlaylistPT.exe
+C:\Users\click\Documents\C#\[WIP] PT1 Sabin\PlaylistPT\PlaylistPT\obj\Debug\PlaylistPT.pdb
+C:\Users\click\Documents\C#\[WIP] PT1 Sabin\PlaylistPT\PlaylistPT\bin\Debug\PlaylistPT.exe.config
+C:\Users\click\Documents\C#\[WIP] PT1 Sabin\PlaylistPT\PlaylistPT\bin\Debug\PlaylistPT.exe
+C:\Users\click\Documents\C#\[WIP] PT1 Sabin\PlaylistPT\PlaylistPT\bin\Debug\PlaylistPT.pdb
+C:\Users\click\Documents\C#\[WIP] PT1 Sabin\PlaylistPT\PlaylistPT\obj\Debug\PlaylistPT.EditSong.resources
+C:\Users\click\Documents\C#\[WIP] PT1 Sabin\PlaylistPT\PlaylistPT\obj\Debug\PlaylistPT.DeleteSong.resources
